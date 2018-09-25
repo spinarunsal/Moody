@@ -11,6 +11,7 @@ With Moody App you can:
 *	Search other cities in the world
 *	Switch degree display between Fehrenheit and Celcius
   
+  
 This app is simply an example of how to use  
 -	Persisting data
 -	Network Requests and REST
